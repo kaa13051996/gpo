@@ -1,0 +1,90 @@
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\bin\Debug\гпо.exe.config
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\bin\Debug\гпо.exe
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\bin\Debug\гпо.pdb
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\obj\Debug\гпо.MainForm.resources
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\obj\Debug\гпо.Properties.Resources.resources
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\obj\Debug\гпо.csproj.GenerateResource.Cache
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\obj\Debug\гпо.exe
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\obj\Debug\гпо.pdb
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\obj\Debug\гпо.histogram.resources
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\obj\Debug\гпо.csprojResolveAssemblyReference.cache
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Печенька\Documents\Visual Studio 2015\Projects\гпо\гпо\obj\Debug\гпо.csproj.ResolveComReference.cache
+C:\Users\Krupi\Documents\gpo\C#\гпо\bin\Debug\гпо.exe.config
+C:\Users\Krupi\Documents\gpo\C#\гпо\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Krupi\Documents\gpo\C#\гпо\obj\Debug\гпо.csproj.ResolveComReference.cache
+C:\Users\Krupi\Documents\gpo\C#\гпо\obj\Debug\гпо.exe
+C:\Users\Krupi\Documents\gpo\C#\гпо\obj\Debug\гпо.pdb
+C:\Users\Krupi\Documents\gpo\C#\гпо\bin\Debug\гпо.exe
+C:\Users\Krupi\Documents\gpo\C#\гпо\bin\Debug\гпо.pdb
+C:\Users\Krupi\Documents\gpo\C#\гпо\obj\Debug\гпо.csprojResolveAssemblyReference.cache
+C:\Users\Krupi\Documents\gpo\C#\гпо\obj\Debug\гпо.MainForm.resources
+C:\Users\Krupi\Documents\gpo\C#\гпо\obj\Debug\гпо.histogram.resources
+C:\Users\Krupi\Documents\gpo\C#\гпо\obj\Debug\гпо.Properties.Resources.resources
+C:\Users\Krupi\Documents\gpo\C#\гпо\obj\Debug\гпо.csproj.GenerateResource.Cache
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\bin\Debug\гпо.exe.config
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.csproj.ResolveComReference.cache
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.exe
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.pdb
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.csprojResolveAssemblyReference.cache
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.MainForm.resources
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.histogram.resources
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.Properties.Resources.resources
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.csproj.GenerateResource.Cache
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\bin\Debug\гпо.exe
+C:\Users\Krupi\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\bin\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\bin\Debug\гпо.exe.config
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.csproj.ResolveComReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\bin\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\bin\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.csprojResolveAssemblyReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.MainForm.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.histogram.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.Properties.Resources.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gpo_steganalysis\гпо\obj\Debug\гпо.csproj.GenerateResource.Cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\bin\Debug\гпо.exe.config
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\obj\Debug\гпо.csproj.ResolveComReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\obj\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\obj\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\obj\Debug\гпо.csprojResolveAssemblyReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\obj\Debug\гпо.MainForm.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\obj\Debug\гпо.histogram.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\obj\Debug\гпо.Properties.Resources.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\obj\Debug\гпо.csproj.GenerateResource.Cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\bin\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\gistogram\гпо\bin\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\bin\Debug\гпо.exe.config
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\obj\Debug\гпо.csproj.ResolveComReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\obj\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\obj\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\bin\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\bin\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\obj\Debug\гпо.csprojResolveAssemblyReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\obj\Debug\гпо.MainForm.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\obj\Debug\гпо.histogram.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\obj\Debug\гпо.Properties.Resources.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\error_pred\гпо\obj\Debug\гпо.csproj.GenerateResource.Cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\bin\Debug\гпо.exe.config
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\obj\Debug\гпо.csproj.ResolveComReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\obj\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\obj\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\bin\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\bin\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\obj\Debug\гпо.csprojResolveAssemblyReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\obj\Debug\гпо.MainForm.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\obj\Debug\гпо.histogram.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\obj\Debug\гпо.Properties.Resources.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\matrix_smezh\гпо\obj\Debug\гпо.csproj.GenerateResource.Cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\bin\Debug\гпо.exe.config
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\obj\Debug\гпо.csproj.ResolveComReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\obj\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\obj\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\bin\Debug\гпо.exe
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\bin\Debug\гпо.pdb
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\obj\Debug\гпо.csprojResolveAssemblyReference.cache
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\obj\Debug\гпо.MainForm.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\obj\Debug\гпо.histogram.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\obj\Debug\гпо.Properties.Resources.resources
+C:\Users\Alisa\Documents\Visual Studio 2015\Projects\signs\гпо\obj\Debug\гпо.csproj.GenerateResource.Cache
