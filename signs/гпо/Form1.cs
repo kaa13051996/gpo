@@ -149,7 +149,7 @@ MessageBoxButtons.OK, MessageBoxIcon.Information);
                         }
                     }
                 }
-                var sw = new StreamWriter(@"D:\study\gpo\histograms.csv", true, Encoding.Default);
+                File.Delete("D:\\study\\gpo\\БД изображений\\standard_test_images\\new_file.txt"); //удаление файла 
                 while (count_image < dirs.Length)
                 {          
                     ////вывод в эксель имен изображений
@@ -179,8 +179,9 @@ MessageBoxButtons.OK, MessageBoxIcon.Information);
                     
                     //if (checkBox_last_bits.Checked == true)
                     //{
-                        string[,] last_bits = Last_Bits(blue, height, width);                        
-                        float[] arr_float = new float[height*width];
+                        string[,] last_bits = Last_Bits(blue, height, width);
+                    LastBitsPicture(last_bits, height, width, Path.GetFileName(dirs[count_image]), 1234, "original");
+                    float[] arr_float = new float[height*width];
                         int k = 0;
                         for (int i = 0; i < height; i++)
                             for (int j = 0; j < width; j++)
@@ -256,15 +257,15 @@ MessageBoxButtons.OK, MessageBoxIcon.Information);
                         float[] blueClone = Clone(error, height, width); //запись в одномерный массив
                         Array.Sort(blueClone); //сортировка
                         float[,] histogramBlue = histogram(blueClone, height, width); //гистограмма
-                        
-                        using (sw)
-                        {
-                            sw.WriteLine();
-                            for (int i = 0; i < histogramBlue.GetLength(1); i++)
-                            {
-                                sw.WriteLine(histogramBlue[0, i] + ";" + histogramBlue[1, i]);                              
-                            }                                                     
-                        }
+                        //var sw = new StreamWriter(@"D:\gpo\histograms.csv", true, Encoding.Default);
+                        //using (sw)
+                        //{
+                        //    sw.WriteLine();
+                        //    for (int i = 0; i < histogramBlue.GetLength(1); i++)
+                        //    {
+                        //        sw.WriteLine(histogramBlue[0, i] + ";" + histogramBlue[1, i]);                              
+                        //    }                                                     
+                        //}
                         
                         
                         if (checkBox_error.Checked == true)
@@ -289,6 +290,7 @@ MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                         //младшие 3 бита
                         string[,] last_bits_stego = Last_Bits(blue_stego, height, width);
+                        LastBitsPicture(last_bits_stego, height, width, Path.GetFileName(dirs[count_image]), numEmbed, "stego");
                         //if (checkBox_last_bits.Checked == true)
                         //{
                             float[] arr_float_stego = new float[height * width];
@@ -316,6 +318,8 @@ MessageBoxButtons.OK, MessageBoxIcon.Information);
                         excelcells.Value2 = "RMSE";
                         excelcells = (Excel.Range)excelworksheet.Cells[(count_image * 10) + 2, 4];
                         excelcells.Value2 = var_RMSE;
+                        
+                        File.AppendAllText("D:\\study\\gpo\\БД изображений\\standard_test_images\\new_file.txt", var_RMSE.ToString() + Environment.NewLine);
 
                         RecoveryImage(blue_stego, height, width, bmp, Path.GetFileNameWithoutExtension(dirs[count_image]), numEmbed);
 
@@ -1656,6 +1660,21 @@ MessageBoxButtons.OK, MessageBoxIcon.Error);
             double MSE = sum / quantity;
             double var_RMSE = Math.Sqrt(MSE);
             return var_RMSE;
+        }
+
+        private void LastBitsPicture(string [,] last_bits, int height, int width, string name, double numEmbed, string par)
+        {
+            Bitmap picture = new Bitmap(width, height);
+            for (int j = 0; j < height; j++)
+            {
+                for (int i = 0; i < width; i++)
+                {
+                    if (Convert.ToInt32(last_bits[i,j]) == 0) picture.SetPixel(i, j, Color.FromArgb(0, 0, 0));
+                    else picture.SetPixel(i, j, Color.FromArgb(255, 255, 255));
+                }
+            }
+
+            picture.Save("D:\\study\\gpo\\БД изображений\\standard_test_images" + name + "_"+ par + "_" + numEmbed + ".png", System.Drawing.Imaging.ImageFormat.Png);
         }
     }
 }
